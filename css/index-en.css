@@ -1,12 +1,13 @@
-.st0{fill:url(#SVGID_1_)}.st1{fill:url(#SVGID_2_)}.st2{fill:url(#SVGID_3_)}.st3{fill:url(#SVGID_4_)}.st4{fill:url(#SVGID_5_)}.st5{fill:#fff}.st6{opacity:.6;fill:#fff}.st7{fill:url(#SVGID_6_)}.st8{fill:url(#SVGID_7_)}.st9{fill:url(#SVGID_8_)}.st10{fill:url(#SVGID_9_)}.st11{fill:url(#SVGID_10_)}.st12{fill:url(#SVGID_11_)}.st13{fill:url(#SVGID_12_)}.st14{fill:url(#SVGID_13_)}.st15{fill:url(#SVGID_14_)}.st16{fill:url(#SVGID_15_)}.st17{fill:url(#SVGID_16_)}.st18{fill:url(#SVGID_17_)}.st19{fill:url(#SVGID_18_)}.st20{fill:url(#SVGID_19_)}.st21{fill:url(#SVGID_20_)}.st22{opacity:.2}.st23{fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10}.st24{fill:none;stroke:#fff;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10}.st25{opacity:.5}.st26{fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:.1,5}.st27{opacity:.6;fill:none;stroke:#fff;stroke-width:4;stroke-miterlimit:10}.st28{opacity:.3}
-#nav-menu-logo-social .bg-wrap {}
-#nav-menu-logo-social {}
-#nav-menu-logo-social .bg {
-	background-image: url('../images/banner-96.jpg');
-	opacity: 0.7;	background-position: center bottom;
-}#sep-bottom-6 .bg-wrap {
+#sep-bottom-6 .bg-wrap {
     background-color: rgba(255, 255, 255, 0);
-}     #header-text-3 .bg {
+}     .cls-1{fill:#04009a}.cls-2{fill:#77acf1}
+#nav-menu-logo-social .bg {
+	opacity: 0.8;
+	background-image: url('../images/banner-96.jpg');
+	background-position: ;
+}
+#nav-menu-logo-social .bg-wrap {
+	background: #ff2c76;}#header-text-3 .bg {
     background-image: url('../images/uploaded/2774/2774-websmith__overhead-view-of-rose-gold-hair-care-products-and-2022-11-07-05-42-22-utc.jpg');
     background-repeat: no-repeat;
     background-position: center bottom;
