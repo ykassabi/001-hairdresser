@@ -1,0 +1,77 @@
+.st0{fill:url(#SVGID_1_)}.st1{fill:url(#SVGID_2_)}.st2{fill:url(#SVGID_3_)}.st3{fill:url(#SVGID_4_)}.st4{fill:url(#SVGID_5_)}.st5{fill:#fff}.st6{opacity:.6;fill:#fff}.st7{fill:url(#SVGID_6_)}.st8{fill:url(#SVGID_7_)}.st9{fill:url(#SVGID_8_)}.st10{fill:url(#SVGID_9_)}.st11{fill:url(#SVGID_10_)}.st12{fill:url(#SVGID_11_)}.st13{fill:url(#SVGID_12_)}.st14{fill:url(#SVGID_13_)}.st15{fill:url(#SVGID_14_)}.st16{fill:url(#SVGID_15_)}.st17{fill:url(#SVGID_16_)}.st18{fill:url(#SVGID_17_)}.st19{fill:url(#SVGID_18_)}.st20{fill:url(#SVGID_19_)}.st21{fill:url(#SVGID_20_)}.st22{opacity:.2}.st23{fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10}.st24{fill:none;stroke:#fff;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10}.st25{opacity:.5}.st26{fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:.1,5}.st27{opacity:.6;fill:none;stroke:#fff;stroke-width:4;stroke-miterlimit:10}.st28{opacity:.3}
+#nav-menu-logo-social .bg-wrap {}
+#nav-menu-logo-social {}
+#nav-menu-logo-social .bg {
+	background-image: url('../images/banner-96.jpg');
+	opacity: 0.7;	background-position: center bottom;
+}#sep-bottom-6 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #header-text-3 .bg {
+    background-image: url('../images/uploaded/2774/2774-websmith__overhead-view-of-rose-gold-hair-care-products-and-2022-11-07-05-42-22-utc.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 0.5;
+}
+#sep-center-5 .bg-wrap {
+    background: rgba(255, 255, 255, 0);
+}#desc-text-halfbg .bg-wrap {
+    background: linear-gradient(to bottom, rgba(0, 39, 118, 0.68), #002776);
+}#sep-bottom-7--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7--0 .bg {
+    background-image: url('../images/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
+#sep-top-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-top-7 .bg {
+    background-image: url('../images/bg-fog-top.png');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 100px;
+}
+#desc-img-text-9 .bg {
+    background-image: url('../images/uploaded/2774/2774-websmith__close-up-of-cosmetologist-doing-hair-caring-mask-2021-09-23-16-43-59-utc.jpg');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    opacity: 0.3;
+}
+#desc-img-text-9 .bg-wrap {
+	background: linear-gradient(to bottom, #002776, #ff2c76);
+}#sep-top-6--1 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #sep-bottom-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7 .bg {
+    background-image: url('../images/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
+
+#benefits-2col-counter--0 .bg-wrap{
+    background: #F2F0ED;
+}
+
+#benefits-2col-counter .bg-wrap {
+	background: linear-gradient(to bottom, rgba(255, 44, 118, 0.72), #f2f0ed);
+}
+#benefits-2col-counter--1 .bg-wrap{
+    background: #f2f0ed;
+}
+#footer-logo-share .bg {
+    background-image: url('../images/linearicons/haircut.svg');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.075;
+}
