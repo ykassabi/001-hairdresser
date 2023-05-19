@@ -95,7 +95,7 @@ section.dark, footer.dark, header.dark {
 }
 .dark a.light:not(.btn):hover, .light a:not(.btn):hover, .dark .light a:not(.btn):hover, a.light:not(.btn):hover {
 	color: #000000;
-	text-decoration: underline;
+	text-decoration: none;
 }
 .light a.dark:not(.btn):hover, .dark a:not(.btn):hover, .light .dark a:not(.btn):hover, a.dark:not(.btn):hover {
 	color: #fff;

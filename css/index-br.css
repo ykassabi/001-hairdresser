@@ -1,6 +1,13 @@
 #sep-bottom-6 .bg-wrap {
     background-color: rgba(255, 255, 255, 0);
-}     .cls-1{fill:#04009a}.cls-2{fill:#77acf1}#header-text-3 .bg {
+}     .cls-1{fill:#04009a}.cls-2{fill:#77acf1}
+#nav-menu-logo-social .bg {
+	background-position: center bottom;
+	background-image: url('../images/banner-96.jpg');
+}
+#nav-menu-logo-social .bg-wrap {
+	background: linear-gradient(to right, #ff2c76, #ff2c76);
+}#header-text-3 .bg {
     background-image: url('../images/uploaded/2774/2774-websmith__overhead-view-of-rose-gold-hair-care-products-and-2022-11-07-05-42-22-utc.jpg');
     background-repeat: no-repeat;
     background-position: center bottom;
