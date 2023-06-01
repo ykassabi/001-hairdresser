@@ -46,5 +46,4 @@ var benefits_2col_counter__1 = $('#benefits-2col-counter--1').waypoint({
 	offset: '90%'
 });
 
-
 });
